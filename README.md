@@ -1,0 +1,1 @@
+# smart_majority_function
